@@ -1,1 +1,1 @@
-Testing gi
+Testing git connection 
