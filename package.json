@@ -1,0 +1,24 @@
+{
+  "name": "class-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcello8933/class-activity.git"
+  },
+  "keywords": [],
+  "author": "Marcelo Goulart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcello8933/class-activity/issues"
+  },
+  "homepage": "https://github.com/marcello8933/class-activity#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
